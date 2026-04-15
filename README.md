@@ -27,6 +27,8 @@
 ## 실행 방법
 아래 명령어를 실행하면 로컬에서 확인할 수 있습니다.
 
+https://smart-energy-system-ruffuy6dlhec6cuznvfzfs.streamlit.app/
+
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
